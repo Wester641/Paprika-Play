@@ -9,8 +9,8 @@ This README is designed for new contributors to quickly get started.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/Wester641/Paprika-Play.git
+   cd Paprika-Play
    ```
 
 2. Install dependencies:
